@@ -1,4 +1,4 @@
-# Prototyping and Deploying a Serverless Python Application with AWS Application Composer
+# Building a Serverless Python Workload with AWS Application Composer
 
 This is the code for the following blog post TODO
 
