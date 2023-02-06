@@ -6,9 +6,9 @@ The code was desgined using [AWS Application Composer](https://aws.amazon.com/ap
 
 The code highlights
 
-•	A scheduled Lambda function, that gets Meetup data and stores it in a databases
-•	An API to get the Meetup data
-•	A prototype front end application developed with [Streamlit](https://streamlit.io/) to display the data
+* A scheduled Lambda function, that gets Meetup data and stores it in a databases
+* An API to get the Meetup data
+* A prototype front end application developed with [Streamlit](https://streamlit.io/) to display the data
 
 ![App diagram](app_diag.png "App diagram")
 
