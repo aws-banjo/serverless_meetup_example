@@ -1,6 +1,6 @@
 # Building a Serverless Python Workload with AWS Application Composer
 
-This is the code for the following blog post TODO
+This is the code for the following [blog post](https://www.buildon.aws/posts/prototyping-and-deploying-a-serverless-python-application-with-aws-application-composer/)
 
 The code was desgined using [AWS Application Composer](https://aws.amazon.com/application-composer/) and can be deployed using [AWS Serverless Application Model (SAM)](https://aws.amazon.com/serverless/sam/). 
 
